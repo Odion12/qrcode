@@ -1,0 +1,25 @@
+body{
+ margin: 0;
+ padding: 0;
+ /* background-color: aqua; */
+}
+.mains{
+ background-color: rgb(57, 55, 55);
+ width: 100vw;
+ height: 63em;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+.card{
+ background-color: bisque;
+ padding: 20px;
+ border-radius: 15px;
+ width: 20vw;
+ height: 60vh;
+ text-align: center;
+}
+.card img{
+ width: 20vw;
+ border-radius: 12px;
+}
